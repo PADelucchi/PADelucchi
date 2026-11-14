@@ -4,13 +4,17 @@ Estoy trabajando en la industria química argentina hace unos 20 años y actualm
 
 Educación: Ingeniero Químico (UBA) 2002
 
-                - Especialización en materiales plásticos (INTI)
-                - Diseño y síntesis de polímeros para revestimientos arquitectónicos e industriales
+- Especialización en materiales plásticos (INTI)
+  
+- Diseño y síntesis de polímeros para revestimientos arquitectónicos e industriales
+  
 Experiencia laboral: Gerente Comercial - Solvay Peróxidos (2025- Presente)
 
-                 - Gestión de cuentas en Argentina y Uruguay
-                 - Comercialización de agua oxigenada para industria y alimentos
-                 - Seguimiento comercial de clientes activos y desarrollos en sistema CRM Nexus
+- Gestión de cuentas en Argentina y Uruguay
+  
+- Comercialización de agua oxigenada para industria y alimentos
+  
+- Seguimiento comercial de clientes activos y desarrollos en sistema CRM Nexus
                  
 
 <!--
